@@ -3,16 +3,16 @@
 		"gateway_ID": "B827EBFFFEF66A02", 
 		"servers": [ 
 			{ 
-				"server_address": "router.as1.thethings.network", 
+				"server_address": "router.as.thethings.network", 
 				"serv_port_up": 1700, 
 				"serv_port_down": 1700, 
 				"serv_enabled": true 
 			} 
 		], 
-		"ref_latitude": 77.7093867,
-		"ref_longitude": 12.9557936,
+		"ref_latitude": 12.95579360, 
+		"ref_longitude": 77.70938670, 
 		"ref_altitude": 40, 
-		"contact_email": "contact email of the gateway   owner", 
-		"description": "a short desciption" 
+		"contact_email": "mohits2103@gmail.com", 
+		"description": "Trying my Rak wireless gateway" 
 	} 
 } 
